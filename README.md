@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="left">What I Like</h3>
+<h3 align="left">What I Like🥑</h3>
 
 <li>⚾️ Sports (KBO, EPL, MLB...) </li>
 <li>✈️ Traveling (Europe...) </li>
