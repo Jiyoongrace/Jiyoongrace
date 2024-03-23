@@ -11,6 +11,14 @@
 
 <br>
 
+<h3 align="left">What I Like</h3>
+
+<li>⚾️ Sports (KBO, EPL, MLB...) </li>
+<li>✈️ Traveling (Europe...) </li>
+<li>📺 Watching social news and documentaries </li>
+
+<br>
+
 <h3 align="left">Experience❄️ 이것저것 도전하기</h3>
 
 <li>VISANG Education Web Service Intern (2023.01 ~ 2023.02)</li>
