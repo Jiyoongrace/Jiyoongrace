@@ -13,10 +13,15 @@
 
 <h3 align="left">Experience❄️, 이것저것 도전하기</h3>
 
-<li>Sookmyung Ambassador 22th</li>
+<li>VISANG Education Web Service Intern (2023.01 ~ 2023.02)</li>
+<li>IT Club LikeLion at Sookmyung 11th President (2023.01 ~ 2023.12)</li>
+<li>IT Club LikeLion at Sookmyung 10th Frontend (2022.01 ~ 2022.12)</li>
+<li>KBO(Korea Baseball Organization) Marketer 18th (2022.03 ~ 2022.12)</li>
+<li>Samsung Life Insurance Financial Education Volunteer 10th (2022.03 ~ 2022.07)</li>
+<li>Naver Play with AI&DATA Software Mentor (2021.07 ~ 2022.02)</li>
+<li>Sookmyung Ambassador 22th (2020.03 ~ 2021.06)</li>
 
-
-
+<br>
 
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
