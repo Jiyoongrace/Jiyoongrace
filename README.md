@@ -2,8 +2,22 @@
 <div align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&bgColor=ffc0ce&text=Jiyoongrace&animation=fadeIn&fontColor=ffffff&fontSize=30" alt="header">
 </div>
+<h3 align="left">도전을 좋아하는 개발자, 배지윤입니다👋</h3>
 
-                  
+>I am a junior developer who likes challenges. <br>
+>I majored in mathematics and computer science at Sookmyung Women's University. <br>
+>I took on challenges in various fields and found what I liked. <br>
+>Currently, I dream of becoming a developer. <br>
+
+<br>
+
+<h3 align="left">Experience❄️, 이것저것 도전하기</h3>
+
+<li>Sookmyung Ambassador 22th</li>
+
+
+
+
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
