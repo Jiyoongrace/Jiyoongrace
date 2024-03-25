@@ -31,6 +31,32 @@
 
 <br>
 
+<h3 align="left">Certification📍</h3>
+<li>정보처리기사</li>
+<li>컴퓨터활용능력 1급</li>
+<li>GTQ그래픽기술자격 1급</li>
+<li>한국사능력시험 1급</li>
+
+<br>
+
+<h3 align="left">Project📚</h3>
+<h4><a href="http://smwu-likelion.com/">1. 멋쟁이사자처럼 숙명여대 신규 모집 페이지&관리자 시스템 프로젝트</a></h4>
+<li>기간: 2023.12 ~ 2024.03</li>
+<li>역할: 프론트엔드(React), 배포(AWS S3, EC2, Github Actions CI/CD)</li>
+<li>설명: 동아리 신규 부원 모집을 위한 홈페이지와 관리자 시스템 웹사이트</li>
+
+<h4>2. 과외 선생님을 위한 과외 수업 관리 서비스, JOY</h4>
+<li>기간: 2023.03 ~ 2023.06</li>
+<li>역할: 백엔드(Node.js, Firebase), DB 설계(MySQL), 프론트엔드(React)</li>
+<li>설명: 과외 수업 맞춤형 선생님-학생/학부모 간 소통 채널 및 수업 관리</li>
+
+<h4>3. 디지털 임종 체험 유서 작성 서비스, OTR</h4>
+<li>기간: 2022.07 ~ 2022.08</li>
+<li>역할: 프론트엔드(React), 백엔드(Django)</li>
+<li>설명: 7일 간의 문답을 통해 진솔한 이야기를 담은 유서를 작성하는 서비스</li>
+
+<br>
+
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
