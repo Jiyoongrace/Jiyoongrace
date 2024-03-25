@@ -45,7 +45,7 @@
 <li>역할: 프론트엔드(React), 배포(AWS S3, EC2, Github Actions CI/CD)</li>
 <li>설명: 동아리 신규 부원 모집을 위한 홈페이지와 관리자 시스템 웹사이트</li>
 
-<h4>2. 과외 선생님을 위한 과외 수업 관리 서비스, JOY</h4>
+<h4><a href="https://github.com/Jiyoongrace/joying_finished">2. 과외 선생님을 위한 과외 수업 관리 서비스, JOY</a></h4>
 <li>기간: 2023.03 ~ 2023.06</li>
 <li>역할: 백엔드(Node.js, Firebase), DB 설계(MySQL), 프론트엔드(React)</li>
 <li>설명: 과외 수업 맞춤형 선생님-학생/학부모 간 소통 채널 및 수업 관리</li>
