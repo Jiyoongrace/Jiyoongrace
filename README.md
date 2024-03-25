@@ -8,7 +8,7 @@
 >I majored in Mathematics and Computer science at Sookmyung Women's University.🎓 <br>
 >I took on challenges in various fields and found what I liked.🌞 <br>
 >Currently, I dream of becoming a developer.😎 <br>
-
+hihi
 <br>
 
 <h3 align="left">What I Like🥑</h3>
@@ -35,7 +35,6 @@
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 <div align="left">
