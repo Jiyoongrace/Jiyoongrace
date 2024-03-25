@@ -119,5 +119,5 @@
 <br>
 <br>
 <div align="left">
-
+    <img src="https://github-readme-stats.vercel.app/api?username=Jiyoongrace&theme=blue-green"/>
 </div>
