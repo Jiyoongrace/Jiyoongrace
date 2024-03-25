@@ -50,7 +50,7 @@
 <li>역할: 백엔드(Node.js, Firebase), DB 설계(MySQL), 프론트엔드(React)</li>
 <li>설명: 과외 수업 맞춤형 선생님-학생/학부모 간 소통 채널 및 수업 관리</li>
 
-<h4><a href="https://github.com/GaGa-Kim/52_AlsongDalsong" target="_blank">3. 알송달송?!</h4>
+<h4><a href="https://github.com/GaGa-Kim/52_AlsongDalsong" target="_blank">3. 알송달송?!</a></h4>
 <li>기간: 2022.12 ~ 2023.02</li>
 <li>역할: 프론트엔드(React)</li>
 <li>설명: 무분별한 소비를 줄이고 현명한 결정을 하기 위한 결정 구매 사이트 '알송달송?!'</li>
