@@ -50,10 +50,10 @@
 <li>역할: 백엔드(Node.js, Firebase), DB 설계(MySQL), 프론트엔드(React)</li>
 <li>설명: 과외 수업 맞춤형 선생님-학생/학부모 간 소통 채널 및 수업 관리</li>
 
-<h4>3. 디지털 임종 체험 유서 작성 서비스, OTR</h4>
-<li>기간: 2022.07 ~ 2022.08</li>
-<li>역할: 프론트엔드(React), 백엔드(Django)</li>
-<li>설명: 7일 간의 문답을 통해 진솔한 이야기를 담은 유서를 작성하는 서비스</li>
+<h4><a href="https://github.com/GaGa-Kim/52_AlsongDalsong" target="_blank">3. 알송달송?!</h4>
+<li>기간: 2022.12 ~ 2023.02</li>
+<li>역할: 프론트엔드(React)</li>
+<li>설명: 무분별한 소비를 줄이고 현명한 결정을 하기 위한 결정 구매 사이트 '알송달송?!'</li>
 
 <br>
 
