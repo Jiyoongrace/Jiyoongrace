@@ -8,7 +8,6 @@
 >I majored in Mathematics and Computer science at Sookmyung Women's University.🎓 <br>
 >I took on challenges in various fields and found what I liked.🌞 <br>
 >Currently, I dream of becoming a developer.😎 <br>
-hihi
 <br>
 
 <h3 align="left">What I Like🥑</h3>
