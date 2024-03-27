@@ -2,7 +2,7 @@
 <div align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&bgColor=ffc0ce&text=Jiyoongrace&animation=fadeIn&fontColor=ffffff&fontSize=30" alt="header">
 </div>
-<h3 align="left">도전을 좋아하는 개발자, 배지윤입니다👋</h3>
+<h3 align="left">도전을 좋아하는 배지윤입니다👋</h3>
 
 >I am a junior developer who likes challenges.🌱 <br>
 >I majored in Mathematics and Computer science at Sookmyung Women's University.🎓 <br>
@@ -28,32 +28,6 @@
 <li>Samsung Life Insurance Financial Education Volunteer 10th (2022.03 ~ 2022.07)</li>
 <li>Naver Play with AI&DATA Software Mentor (2021.07 ~ 2022.02)</li>
 <li>Sookmyung Ambassador 22th (2020.03 ~ 2021.06)</li>
-
-<br>
-
-<h3 align="left">Certification📍</h3>
-<li>정보처리기사</li>
-<li>컴퓨터활용능력 1급</li>
-<li>GTQ그래픽기술자격 1급</li>
-<li>한국사능력검정시험 1급</li>
-
-<br>
-
-<h3 align="left">Project📚</h3>
-<h4><a href="http://smwu-likelion.com/" target="_blank">1. 멋쟁이사자처럼 숙명여대 신규 모집 페이지&관리자 시스템 프로젝트</a></h4>
-<li>기간: 2023.12 ~ 2024.03</li>
-<li>역할: 프론트엔드(React), 인프라(AWS S3, EC2, Github Actions CI/CD)</li>
-<li>설명: 동아리 신규 부원 모집을 위한 홈페이지와 관리자 시스템 웹사이트</li>
-
-<h4><a href="https://github.com/Jiyoongrace/joying_finished">2. 과외 선생님을 위한 과외 수업 관리 서비스, JOY</a></h4>
-<li>기간: 2023.03 ~ 2023.06</li>
-<li>역할: 백엔드(Node.js, Firebase), DB 설계(MySQL), 프론트엔드(React)</li>
-<li>설명: 과외 수업 맞춤형 선생님-학생/학부모 간 소통 채널 및 수업 관리</li>
-
-<h4><a href="https://github.com/GaGa-Kim/52_AlsongDalsong" target="_blank">3. 알송달송?!</a></h4>
-<li>기간: 2022.12 ~ 2023.02</li>
-<li>역할: 프론트엔드(React)</li>
-<li>설명: 무분별한 소비를 줄이고 현명한 결정을 하기 위한 결정 구매 사이트 '알송달송?!'</li>
 
 <br>
 
