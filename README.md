@@ -4,10 +4,8 @@
 </div>
 <h3 align="left">도전을 좋아하는 배지윤입니다👋</h3>
 
->I am a junior developer who likes challenges.🌱 <br>
->I majored in Mathematics and Computer science at Sookmyung Women's University.🎓 <br>
->I took on challenges in various fields and found what I liked.🌞 <br>
->Currently, I dream of becoming a developer.😎 <br>
+>00년생 만 23살🌱 <br>
+>숙명여대 수학과&IT공학전공 졸업🎓 <br>
 
 <br>
 
