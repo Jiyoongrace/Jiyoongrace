@@ -6,7 +6,6 @@
 
 >00년생 만 23살🌱 <br>
 >숙명여대 수학과&IT공학전공 졸업🎓 <br>
->본가: 대구 <br>
 
 <br>
 
@@ -15,18 +14,6 @@
 <li>⚾️ Sports (KBO, EPL, MLB...) </li>
 <li>✈️ Traveling (Europe...) </li>
 <li>📺 Watching social news and documentaries </li>
-
-<br>
-
-<h3 align="left">장점🙂</h3>
-
-<li>도전을 하는 강인한 성격</li>
-<li>근성있는 성격</li>
-
-<br>
-
-<h3 align="left">특기🎵</h3>
-<li>노래를 듣고 피아노로 멜로디를 바로 칠 수 있어요.. (나름 절대음감?)</li>
 
 <br>
 
