@@ -49,6 +49,3 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Jiyoongrace&theme=gh-light-mode-only"/>
 </div>
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyoongrace"/>
-</div>
