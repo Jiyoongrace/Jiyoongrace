@@ -8,7 +8,7 @@
 ### 🌞 WHO AM I 🌞
 
 - 🎓 I studied at Sookmyung Women's University. (2019.03 ~ 2024.02)
-- 🐬 I majored in mathematics & computer engineering. (2019.03 ~ 2024.02)
+- 🐬 I majored in Mathematics & Computer engineering. (2019.03 ~ 2024.02)
 - 🌱 I'm currently taking POSCO DX training. (2024.04 ~ 2024.10)
 
 
