@@ -2,15 +2,20 @@
 <div align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&bgColor=ffc0ce&text=Jiyoongrace&animation=fadeIn&fontColor=ffffff&fontSize=30" alt="header">
 </div>
-<h3 align="left">도전을 좋아하는 배지윤입니다👋</h3>
 
-### 🔆 TODAY VISITED 🔆
+# Hi there!👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Jiyoongrace)
+### 🌞 WHO AM I 🌞
+
+- 🎓 I studied at Sookmyung Women's University (2019.03 ~ 2024.02)
+- 🌱 I'm currently taking POSCO DX training. (2024.04 ~ 2024.10)
 
 
->00년생 만 23살🌱 <br>
->숙명여대 수학과&IT공학전공 졸업🎓 <br>
+### 🥑 What I Like 🥑
+
+- ⚾️ Sports (KBO, EPL, MLB...)
+- 📺 Watching social news and documentaries
+- ✈️ Traveling
 
 <br>
 
