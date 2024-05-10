@@ -4,6 +4,11 @@
 </div>
 <h3 align="left">도전을 좋아하는 배지윤입니다👋</h3>
 
+### 🔆 TODAY VISITED 🔆
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Jiyoongrace)
+
+
 >00년생 만 23살🌱 <br>
 >숙명여대 수학과&IT공학전공 졸업🎓 <br>
 
