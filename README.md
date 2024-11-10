@@ -13,7 +13,7 @@
 
 ### 🥑 What I Like 🥑
 
-- ⚾️ Sports (KBO, EPL, MLB...)
+- ⚾️ KBO
 - 📺 Watching social news and documentaries
 - ✈️ Traveling
 
