@@ -13,7 +13,7 @@
 
 ### 🥑 What I Like 🥑
 
-- ⚾KBO
+- ⚾️ KBO
 - 📺 Watching social news and documentaries
 - ✈️ Traveling
 
