@@ -11,7 +11,7 @@
 
 ```diff
 ! Currently: Leading AI Agent Development
-+ Learning: Compound AI Systems, Computer Use APIs, Multi-Agent Coordination
++ Learning: Agent Orchestration, Production RAG Pipelines, Multi-Agent Coordination
 # Goal: Shipping Autonomous Workflows for Manufacturing
 ```
 
@@ -48,9 +48,8 @@
   <a href="https://spring.io/projects/spring-ai"><img src="https://img.shields.io/badge/Spring_AI-Java_LLM-6DB33F?logo=spring&logoColor=white" /></a>
 </div>
 
-### 🕹️ Agent Frameworks
+### 🕹️ Multi-Agent Frameworks
 <div align="left">
-  <a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-StateGraph-1C3C3C?logo=langchain&logoColor=white" /></a>
   <a href="https://ai.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic_AI-Agent_Framework-E92063?logo=pydantic&logoColor=white" /></a>
   <a href="https://www.crewai.com/"><img src="https://img.shields.io/badge/CrewAI-Multi--Agent-FF4B4B?logo=crewai&logoColor=white" /></a>
   <a href="https://microsoft.github.io/autogen/"><img src="https://img.shields.io/badge/AutoGen-Microsoft-0078D4?logo=microsoft&logoColor=white" /></a>
@@ -59,12 +58,13 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Agent Patterns
+### 🧩 Agent Patterns & Protocols
 <div align="left">
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-D97757?logo=anthropic&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/StateGraph-Workflow_Orchestration-1C3C3C" />
+  <a href="https://a2a.anthropic.com/"><img src="https://img.shields.io/badge/A2A-Agent_to_Agent-6366F1" /></a>
   <img src="https://img.shields.io/badge/HITL-Human--in--the--Loop-22C55E" />
   <img src="https://img.shields.io/badge/ReAct-Reasoning_%2B_Action-EC4899" />
+  <img src="https://img.shields.io/badge/StateGraph-Orchestration-1C3C3C" />
 </div>
 
 ### 🗄️ Vector DB & RAG
@@ -80,7 +80,6 @@
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## 💻 Backend
