@@ -20,18 +20,18 @@
 ## 👩‍💻 WHO AM I
 
 ```
-🎓  숙명여자대학교 — 수학과 & IT공학전공 복수전공 (2019 ~ 2024)
+🎓  Sookmyung Women's University — Double Major in Mathematics & IT Engineering (2019 ~ 2024)
 🏢  POSCO DX — Developer (2024.10 ~ )
 
-📦  SCM (Supply Chain Management) 도메인 개발
-      └ 공정계획 시스템 개발 및 운영
+📦  SCM (Supply Chain Management) Domain Development
+      └ Process Planning System Development & Operations
 
-🤖  사내 AI Agent 개발 과제 진행 중
-      └ SCM 도메인 특화 AI Agent 개발
-      └ MCP · Tool Use · Agentic Workflow 실무 적용 도전
+🤖  Leading AI Agent Development Project
+      └ Building SCM Domain-specific AI Agents
+      └ Exploring MCP · Tool Use · Agentic Workflows in Production
 
-🌱  AI Native Developer 가 되고 싶은..
-      └ LLM / GenAI / Agentic Workflow를 일상 개발에 자연스럽게 녹여내는 개발자
+🌱  Aspiring AI Native Developer
+      └ Integrating LLM / GenAI / Agentic Workflows into everyday development
 ```
 ## 🤖 AI & LLM Learning Journey
 
