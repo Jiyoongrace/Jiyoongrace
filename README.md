@@ -1,21 +1,20 @@
-<!-- 타이틀 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&bgColor=gradient&customColorList=0,2,2,5,30&text=Jiyoongrace&animation=fadeIn&fontColor=ffffff&fontSize=40&desc=AI%20Native%20Developer&descSize=18&descAlignY=75" alt="header">
-</div>
 
-<div align="center">
-  <a href="https://www.instagram.com/zunnxn/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:giyun36320@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=header&fontSize=0" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jiyoon)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&width=680&height=90&lines=Developer+%40+POSCO+DX+%F0%9F%8F%A2;SCM+Domain+%C3%97+AI+Agent+%F0%9F%A4%96;Building+Agentic+Workflows+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+**Developer @ POSCO DX**
+
+[![Instagram](https://img.shields.io/badge/-@zunnxn-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zunnxn/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giyun36320@gmail.com)
+
+```diff
+! Currently: Leading AI Agent Development
++ Learning: Compound AI Systems, Computer Use APIs, Multi-Agent Coordination
+# Goal: Shipping Autonomous Workflows for Manufacturing
+```
+
 </div>
 
 ## 👩‍💻 WHO AM I
@@ -29,7 +28,7 @@
 
 🤖  사내 AI Agent 개발 과제 진행 중
       └ SCM 도메인 특화 AI Agent 개발
-      └ MCP · Tool Use · Agentic Workflow 실무 적용 학습
+      └ MCP · Tool Use · Agentic Workflow 실무 적용 도전
 
 🌱  AI Native Developer 가 되고 싶은..
       └ LLM / GenAI / Agentic Workflow를 일상 개발에 자연스럽게 녹여내는 개발자
@@ -49,6 +48,17 @@
   <a href="https://spring.io/projects/spring-ai"><img src="https://img.shields.io/badge/Spring_AI-Java_LLM-6DB33F?logo=spring&logoColor=white" /></a>
 </div>
 
+### 🕹️ Agent Frameworks
+<div align="left">
+  <a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-StateGraph-1C3C3C?logo=langchain&logoColor=white" /></a>
+  <a href="https://ai.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic_AI-Agent_Framework-E92063?logo=pydantic&logoColor=white" /></a>
+  <a href="https://www.crewai.com/"><img src="https://img.shields.io/badge/CrewAI-Multi--Agent-FF4B4B?logo=crewai&logoColor=white" /></a>
+  <a href="https://microsoft.github.io/autogen/"><img src="https://img.shields.io/badge/AutoGen-Microsoft-0078D4?logo=microsoft&logoColor=white" /></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧩 Agent Patterns
 <div align="left">
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-D97757?logo=anthropic&logoColor=white" /></a>
@@ -56,9 +66,6 @@
   <img src="https://img.shields.io/badge/HITL-Human--in--the--Loop-22C55E" />
   <img src="https://img.shields.io/badge/ReAct-Reasoning_%2B_Action-EC4899" />
 </div>
-
-</td>
-<td width="50%" valign="top">
 
 ### 🗄️ Vector DB & RAG
 <div align="left">
