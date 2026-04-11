@@ -23,7 +23,7 @@
 🎓  숙명여자대학교 — 수학과 & IT공학전공 복수전공 (2019 ~ 2024)
 🏢  POSCO DX — Developer (2024.10 ~ )
 
-📦  SCM (Supply Chain Management) 도메인 개발 및 운영
+📦  SCM (Supply Chain Management) 도메인 개발
       └ 공정계획 시스템 개발 및 운영
 
 🤖  사내 AI Agent 개발 과제 진행 중
