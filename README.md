@@ -10,8 +10,8 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giyun36320@gmail.com)
 
 ```diff
-! Currently: Leading AI Agent Development
-+ Learning: Agent Orchestration, Production RAG Pipelines, Multi-Agent Coordination
+! Currently: SCM System Development
++ Learning: AI Agent Development, Agent Orchestration, Production RAG Pipelines
 # Goal: Shipping Autonomous Workflows for Manufacturing
 ```
 
