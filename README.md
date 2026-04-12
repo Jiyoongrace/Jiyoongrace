@@ -26,7 +26,7 @@
 📦  SCM (Supply Chain Management) Domain Development
       └ Process Planning System Development & Operations
 
-🤖  Leading AI Agent Development Project
+🤖  AI Agent Development Project
       └ Building SCM Domain-specific AI Agents
       └ Exploring MCP · Tool Use · Agentic Workflows in Production
 
