@@ -15,7 +15,7 @@
 
 ```
 🎓  Sookmyung Women's University — Double Major in Mathematics & IT Engineering (2019 ~ 2024)
-🎓  Korea University — M.S. in Artificial Intelligence Convergence, Graduate School of SW·AI Convergence (2026.09 ~ )
+🎓  Korea University — M.S. in Artificial Intelligence Convergence, Graduate School of AI Convergence (2026.09 ~ )
 🏢  POSCO DX — Developer (2024.10 ~ )
 
 📦  SCM (Supply Chain Management) Domain Development
